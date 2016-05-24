@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>MIME</servlet-name>
+		<servlet-class>MimeServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>MIME</servlet-name>
+		<url-pattern>/mime.com</url-pattern>
+	</servlet-mapping>
+</web-app>

@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>FAC</servlet-name>
+		<servlet-class>FacQS</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>FAC</servlet-name>
+		<url-pattern>/factorial.com</url-pattern>
+	</servlet-mapping>
+</web-app>

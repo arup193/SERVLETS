@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>TABLE</servlet-name>
+		<servlet-class>TableD</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>TABLE</servlet-name>
+		<url-pattern>/table.com</url-pattern>
+	</servlet-mapping>
+</web-app>
